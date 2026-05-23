@@ -15,7 +15,7 @@
 
 
 <br/>
-<div align="center">.
+<div align="center">
   <p>
     🎓 MCA Student passionate about building <b>scalable, secure & intelligent applications</b>.<br/>
     Exploring the intersection of <b>Full Stack Development</b>, <b>Artificial Intelligence</b>, and <b>Cloud Architecture</b>.<br/>

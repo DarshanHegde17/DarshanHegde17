@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F7FF&height=220&section=header&text=Darshan%20Hegde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20MCA%20Student&descSize=18&descAlignY=60"/>

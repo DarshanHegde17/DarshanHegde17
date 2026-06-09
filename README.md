@@ -5,9 +5,6 @@
 <br/>
 <br/><br/>
 <br/>
-
-
-
 <div align="center">
   <p>
     🎓 MCA Student passionate about building <b>scalable, secure & intelligent applications</b>.<br/>

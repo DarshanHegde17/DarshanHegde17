@@ -214,6 +214,8 @@ Philosophy :
   <img src="https://raw.githubusercontent.com/darshanhegde/darshanhegde/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
+
+
 ---
 
 <!-- Footer Quote & Closing -->

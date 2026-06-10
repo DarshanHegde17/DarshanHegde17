@@ -6,12 +6,7 @@
 <br/><br/>
 <br/>
 <div align="center">
-
-
-
-
-  
-  <p>
+    <p>
     🎓 MCA Student passionate about building <b>scalable, secure & intelligent applications</b>.<br/>
     Exploring the intersection of <b>Full Stack Development</b>, <b>Artificial Intelligence</b>, and <b>Cloud Architecture</b>.<br/>
     On a mission to turn ideas into real-world smart solutions — one commit at a time💻🔥

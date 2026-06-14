@@ -72,7 +72,6 @@ Philosophy :
 </td>
 </tr>
 </table>
-
 ---
 
 <!-- Skills Section -->

@@ -33,8 +33,6 @@
 
 </div>
 
-
-
 ---
 
 <!-- About Me Section -->

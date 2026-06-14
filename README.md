@@ -12,6 +12,7 @@
     On a mission to turn ideas into real-world smart solutions — one commit at a time💻🔥
   </p>
 </div>
+
 <!-- Contact Badges -->
 <a href="mailto:darshanhegdehegde@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-darshanhegdehegde%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>

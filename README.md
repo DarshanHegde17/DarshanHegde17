@@ -25,8 +25,8 @@
 <br/><br/>
 
 <!-- Visitor & Follower Counters -->
-<img src="https://komarev.com/ghpvc/?username=darshanhegde&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/darshanhegde?style=for-the-badge&color=302b63&label=FOLLOWERS&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=DarshanHegde17&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/DarshanHegde17?style=for-the-badge&color=302b63&label=FOLLOWERS&logo=github"/>
 
 </div>
 
@@ -54,7 +54,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshanhegde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DarshanHegde17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" width="100%"/>
 
 </td>
 </tr>
@@ -82,12 +82,12 @@
 &nbsp; GitHub Stats
 </h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhegde&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhegde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" width="35%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanHegde17&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanHegde17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" width="35%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshanhegde&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanHegde17&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%"/>
 
 </div>
 

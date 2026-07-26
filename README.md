@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F7FF&height=220&section=header&text=Darshan%20Hegde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Explorer%20|%20MCA%20Student&descSize=18&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Darshan+Hegde;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Darshan+Hegde;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Modern+Web+Applications"/>
 
 <br/>
 
@@ -54,7 +54,11 @@
 </td>
 <td width="45%" valign="top" align="center">
 
+`· · · · · · · · · · · · · · · · · ·`
+
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+
+`· · · · · · · · · · · · · · · · · ·`
 
 </td>
 </tr>

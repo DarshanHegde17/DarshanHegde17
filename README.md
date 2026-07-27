@@ -1,8 +1,8 @@
 <div align="center">
 
-## 👋 Namaskara!
+# 👋 Namaskara! I'm Darshan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Darshan;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;MCA+Student" alt="Typing SVG"/>
+### <span style="color:#00F7FF">Full Stack Developer</span>
 
 <a href="mailto:darshanhegdehegde@gmail.com">
 <img src="https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"/>

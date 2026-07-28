@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>
 
-# ⚽ Hi, I'm Darshan Hegde
+# 👋 Namaskara! I'm Darshan Hegde
 
-### 🏆 Full Stack Developer • AI Explorer • MCA Student • Football Enthusiast
+### 🚀 Full Stack Developer | AI Explorer | MCA Student
 
 <p>
 <a href="mailto:darshanhegdehegde@gmail.com">
@@ -19,73 +19,22 @@
 <img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/neymar-dribble.gif" width="700" alt="Football Animation"/>
-
----
-
-## ⚽ Welcome to My Digital Stadium
-
-💚 Passionate about building modern web applications, AI solutions, and creative user experiences.
-
-🔥 Inspired by football legends, especially **Neymar Jr.**, I believe coding is just like football—
-**Creativity • Vision • Speed • Teamwork**
-
----
-
-### ⚽ My Formation
-
-🥅 Goalkeeper → Problem Solving
-
-🛡 Defender → Backend Development
-
-🎯 Midfielder → Database Design
-
-⚡ Winger → Frontend UI/UX
-
-🥇 Striker → AI & Machine Learning
-
----
-
-### ⚽ Current Season
-
-🏆 MCA Student
-
-💻 Full Stack Development
-
-🤖 Artificial Intelligence
-
-☁ Cloud Computing
-
-📱 Responsive Web Applications
-
----
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/⚽-Football-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neymar-Jr-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coding-24%2F7-2962FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Learning-FF6D00?style=for-the-badge"/>
-
+  <img width="720" height="620" alt="ascii_portrait_v2" src="https://github.com/negativenagesh/negativenagesh/blob/main/github.gif" />
 </p>
 
----
+
+
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DarshanHegde17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/_subrahmanya_" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/subrahmanya_gaonkar" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://kaggle.com/subrahmanya090" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;&nbsp;
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="justify">

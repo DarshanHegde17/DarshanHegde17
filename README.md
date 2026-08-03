@@ -4,7 +4,7 @@
 
 # 👋 Namaskara! I'm Darshan Hegde
 
-### 🚀 Full Stack Developer | AI Explorer | MCA Student
+### 🚀 Full Stack Developer | AI Explorer | MCA Student 
 
 <p>
 <a href="mailto:darshanhegdehegde@gmail.com">

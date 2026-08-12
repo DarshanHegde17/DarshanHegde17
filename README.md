@@ -2,14 +2,15 @@
 
 
 
+<img 
+  src="your-gif.gif" 
+  alt="Vibe coder wearing a red hoodie, blue pants, white shoes and headphones holding a smartphone"
+/>
 
-
-
-
-
-https://github.com/user-attachments/assets/374f8b3c-d153-4f8c-9add-caa862c2fde8
-
-
+<h1>
+  Welcome to My GitHub <br>
+  <span>Code. Create. Build.</span>
+</h1>
 
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>
 

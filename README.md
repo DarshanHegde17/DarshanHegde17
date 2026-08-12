@@ -1,17 +1,10 @@
 <div align="center">
 
+<div align="center">
+<img width="800" height="450" alt="Chandan" src="https://github.com/user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43" />
+</div>
 
 
-<p align="center">
-  <video
-    src="https://github.com/user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43"
-    autoplay
-    loop
-    muted
-    playsinline
-    width="700">
-  </video>
-</p>
 
 
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>

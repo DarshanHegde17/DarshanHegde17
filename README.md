@@ -3,12 +3,15 @@
 
 
 <p align="center">
-  <img 
-    src="user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43"
-    alt="Vibe coder holding a phone with Welcome to My GitHub animation"
-  />
+  <video
+    src="https://github.com/user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43"
+    autoplay
+    loop
+    muted
+    playsinline
+    width="700">
+  </video>
 </p>
-
 
 
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>

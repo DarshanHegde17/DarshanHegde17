@@ -3,14 +3,13 @@
 
 
 <img 
-  src="your-gif.gif" 
-  alt="Vibe coder wearing a red hoodie, blue pants, white shoes and headphones holding a smartphone"
+  src="https://github.com/user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43
+" 
+  alt="Vibe coder holding a phone with Welcome to My GitHub animation"
 />
 
-<h1>
-  Welcome to My GitHub <br>
-  <span>Code. Create. Build.</span>
-</h1>
+
+
 
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>
 

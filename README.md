@@ -2,12 +2,12 @@
 
 
 
-<img 
-  src="https://github.com/user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43
-" 
-  alt="Vibe coder holding a phone with Welcome to My GitHub animation"
-/>
-
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/0c3c0814-0200-45fa-a836-1a571a827a43"
+    alt="Vibe coder holding a phone with Welcome to My GitHub animation"
+  />
+</p>
 
 
 

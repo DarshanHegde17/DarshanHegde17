@@ -2,6 +2,8 @@
 # 👋 Namaskara! I'm Darshan Hegde
 
 ### 🚀 Full Stack Developer | AI Explorer | MCA Student 
+<img width="400" height="225" alt="Developer_portfolio_video_prompt_1080p_2026081321551-ezgif com-optimize" src="https://github.com/user-attachments/assets/9ced6cc8-73c5-40cc-a6f0-a3c42a64f46d" />
+
 <img src="https://github.com/user-attachments/assets/3e86df98-cda9-487a-a726-1c914f044cec" width="100%" alt="Developer Portfolio Welcome"/>
 <p>
 <a href="mailto:darshanhegdehegde@gmail.com">

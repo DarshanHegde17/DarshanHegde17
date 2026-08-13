@@ -1,3 +1,4 @@
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>
 
@@ -21,9 +22,6 @@
 <p align="center">
   <img width="720" height="620" alt="ascii_portrait_v2" src="https://github.com/negativenagesh/negativenagesh/blob/main/github.gif" />
 </p>
-
-
-
 
 <p align="center">
 

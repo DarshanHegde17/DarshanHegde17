@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>
+<img src="https://github.com/user-attachments/assets/601c6a68-3574-4720-bb10-ad5945ec259e" width="100%" alt="Developer Portfolio Welcome"/>
 
 # 👋 Namaskara! I'm Darshan Hegde
 

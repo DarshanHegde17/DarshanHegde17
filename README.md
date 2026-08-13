@@ -1,11 +1,8 @@
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/3e86df98-cda9-487a-a726-1c914f044cec" width="100%" alt="Developer Portfolio Welcome"/>
-
 # 👋 Namaskara! I'm Darshan Hegde
 
 ### 🚀 Full Stack Developer | AI Explorer | MCA Student 
-
+<img src="https://github.com/user-attachments/assets/3e86df98-cda9-487a-a726-1c914f044cec" width="100%" alt="Developer Portfolio Welcome"/>
 <p>
 <a href="mailto:darshanhegdehegde@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

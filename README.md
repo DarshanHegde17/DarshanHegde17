@@ -1,8 +1,4 @@
 
-
-
-
-
 <img src="https://raw.githubusercontent.com/DarshanHegde17/DarshanHegde17/main/assets/football.gif" width="100%" alt="Football Banner"/>
 
 # 👋 Namaskara! I'm Darshan Hegde

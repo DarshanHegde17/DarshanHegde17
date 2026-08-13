@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/601c6a68-3574-4720-bb10-ad5945ec259e" width="100%" alt="Developer Portfolio Welcome"/>
+
+
+
+
+<img width="800" height="450" alt="Developer_portfolio_landing_page_202608122224-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3e86df98-cda9-487a-a726-1c914f044cec" />
+
 
 # 👋 Namaskara! I'm Darshan Hegde
 

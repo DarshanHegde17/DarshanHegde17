@@ -65,7 +65,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e86df98-cda9-487a-a726-1c914f044cec" width="100%" alt="Developer Portfolio Banner" />
+  <img src="https://raw.githubusercontent.com/negativenagesh/negativenagesh/main/github.gif" width="100%" alt="I'm busy right now coding..." />
 </p>
 
 <br />

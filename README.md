@@ -64,4 +64,10 @@
 
 <br />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e86df98-cda9-487a-a726-1c914f044cec" width="100%" alt="Developer Portfolio Banner" />
+</p>
+
+<br />
+
 ---

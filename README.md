@@ -71,3 +71,18 @@
 <br />
 
 ---
+
+<div align="center">
+
+### ☕ Support & Coffee Chat
+
+Enjoying my work or want to connect? Click below to send a coffee request directly to my email!
+
+<br />
+
+<a href="mailto:darshanhegdehegde@gmail.com?subject=Coffee%20Request%20%2F%20Buy%20Me%20A%20Coffee%20☕&body=Hi%20Darshan,%0A%0AI%20would%20like%20to%20connect%20and%20buy%20you%20a%20coffee!%0A%0A---%20Sender%20Information%20---%0AMy%20Name:%20%0AMy%20GitHub%20%2F%20LinkedIn:%20%0AMessage%20%2F%20Coffee%20Note:%20">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Request" />
+</a>
+
+</div>
+

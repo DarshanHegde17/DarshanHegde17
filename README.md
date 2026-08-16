@@ -74,15 +74,28 @@
 
 <div align="center">
 
-### ☕ Support & Coffee Chat
+### ☕ Developer Profile & Instant Coffee Request
 
-Enjoying my work or want to connect? Click below to send a coffee request directly to my email!
+```json
+{
+  "name": "Darshan Hegde",
+  "role": "Full Stack Developer & AI Explorer",
+  "education": "Master of Computer Applications (MCA)",
+  "coffee_status": "Ready for Coffee & Tech Collaborations ☕",
+  "email": "darshanhegdehegde@gmail.com"
+}
+```
 
 <br />
 
-<a href="mailto:darshanhegdehegde@gmail.com?subject=Coffee%20Request%20%2F%20Buy%20Me%20A%20Coffee%20☕&body=Hi%20Darshan,%0A%0AI%20would%20like%20to%20connect%20and%20buy%20you%20a%20coffee!%0A%0A---%20Sender%20Information%20---%0AMy%20Name:%20%0AMy%20GitHub%20%2F%20LinkedIn:%20%0AMessage%20%2F%20Coffee%20Note:%20">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Request" />
+<p align="center">
+  <b>Click the coffee cup below to send an instant coffee request directly to my inbox!</b>
+</p>
+
+<a href="mailto:darshanhegdehegde@gmail.com?subject=☕%20Instant%20Coffee%20Request%20for%20Darshan%20Hegde&body=Hi%20Darshan,%0A%0AI'm%20sending%20you%20a%20coffee%20request%20from%20your%20GitHub%20Profile!%20Let's%20connect%20and%20chat%20over%20tech.%0A%0ABest%20regards,%0AA%20GitHub%20Visitor">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="240" />
 </a>
 
 </div>
+
 

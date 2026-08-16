@@ -1,6 +1,6 @@
-<div align="left">
-  <img src="https://readme-delay-clock.vercel.app/api/clock?timezone=Asia/Kolkata" alt="Real-time Clock (IST)" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/LOCAL_TIME-IST_(UTC%2B5:30)-0A66C2?style=for-the-badge&logo=clock&logoColor=white" alt="Local Time (IST)" />
+</p>
 
 <div align="center">
 
@@ -41,6 +41,8 @@
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**
 - 💻 Passionate about **Full Stack Development** (MERN Stack) and **AI Innovations**
+- 🌐 Live Portfolio: [darshanhegde17.netlify.app](https://darshanhegde17.netlify.app/)
+- 💼 LinkedIn: [darshan-hegde-4507382b9](https://www.linkedin.com/in/darshan-hegde-4507382b9/)
 - 🛠️ Love building scalable web applications, interactive UIs, and exploring cutting-edge technology
 - 🎯 Seeking opportunities to collaborate on exciting tech projects and open-source contributions
 - 📫 How to reach me: [darshanhegdehegde@gmail.com](mailto:darshanhegdehegde@gmail.com)

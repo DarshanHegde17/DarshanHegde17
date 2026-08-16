@@ -74,17 +74,27 @@
 
 <div align="center">
 
-### ☕ Developer Profile & Instant Coffee Request
+### ☕ Darshan's Coffee Corner & Instant Request
 
-```json
-{
-  "name": "Darshan Hegde",
-  "role": "Full Stack Developer & AI Explorer",
-  "education": "Master of Computer Applications (MCA)",
-  "coffee_status": "Ready for Coffee & Tech Collaborations ☕",
-  "email": "darshanhegdehegde@gmail.com"
-}
-```
+<table>
+  <tr>
+    <td align="center" width="160" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="110" alt="Hot Coffee Mug" />
+      <br /><br />
+      <a href="mailto:darshanhegdehegde@gmail.com?subject=☕%20Instant%20Coffee%20Request%20for%20Darshan%20Hegde&body=Hi%20Darshan,%0A%0AI'm%20sending%20you%20a%20coffee%20request%20from%20your%20GitHub%20Profile!%20Let's%20connect%20and%20chat%20over%20tech.%0A%0ABest%20regards,%0AA%20GitHub%20Visitor">
+        <img src="https://img.shields.io/badge/☕_Send_Request-FFDD00?style=for-the-badge&logoColor=black" alt="Send Request" />
+      </a>
+    </td>
+    <td align="left" valign="middle">
+      <h3>☕ Coffee Interface</h3>
+      <b>👤 Name:</b> Darshan Hegde<br />
+      <b>🚀 Role:</b> Full Stack Developer & AI Explorer<br />
+      <b>🎓 Education:</b> Master of Computer Applications (MCA)<br />
+      <b>⚡ Coffee Status:</b> Ready for Coffee & Tech Collaborations ☕<br />
+      <b>📫 Email:</b> <code>darshanhegdehegde@gmail.com</code>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -97,5 +107,6 @@
 </a>
 
 </div>
+
 
 

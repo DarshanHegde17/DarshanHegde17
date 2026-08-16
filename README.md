@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://readme-delay-clock.vercel.app/api/clock?timezone=Asia/Kolkata" alt="Real-time Clock (IST)" />
+</div>
+
 <div align="center">
 
 # 👋 Namaskara! I'm Darshan Hegde
@@ -16,10 +20,10 @@
   <a href="mailto:darshanhegdehegde@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/darshan-hegde-4507382b9/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://darshanhegde17.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>

@@ -3,7 +3,6 @@
 </p>
 
 <div align="center">
-
 # 👋 Namaskara! I'm Darshan Hegde
 
 ### 🚀 Full Stack Developer | AI Explorer | MCA Student
